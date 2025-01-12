@@ -6,13 +6,13 @@
 ---
 
 ### 🚀 **About Me**
-I’m a Product Analyst with over 5 years of experience turning data into meaningful insights that drive decisions and measurable outcomes. My journey spans industries like programmatic advertising, food delivery, and health tech, where I’ve tackled challenges in operational efficiency, sales analytics, app growth and retention, and customer behavior.
+I’m a Master’s student in Data Science at New York University, building on over 5 years of experience as a Product Analyst. My work has focused on turning data into meaningful insights that drive decisions and measurable outcomes. I’ve tackled challenges in industries like programmatic advertising, food delivery, and health tech, addressing operational efficiency, growth and retention , customer behavior and segmentation.
 
-I specialize in designing experiments, uncovering root causes, and keeping decision-makers data-informed—whether it’s through detailed measurement frameworks or actionable reporting. I’ve collaborated with a wide range of stakeholders, including CEOs, product managers, analytics teams, sales, finance, and HR, often leading product initiatives and working closely with tech teams to deliver impact.
+I specialize in designing experiments, uncovering root causes, and keeping decision-makers data-informed—whether it’s through detailed measurement frameworks or actionable reporting. I’ve collaborated with a wide range of stakeholders, including business leadership, product managers, analytics , operations, finance, and HR, often leading initiatives and working closely with tech and product teams to deliver impact.
 
-What makes me stand out is my ability to manage the entire data lifecycle—from discovery to experimentation to measurement—translating complex data into clear, actionable insights that drive business direction. I excel at bridging the gap between data and strategy, ensuring every decision is grounded in measurable value and aligned with business goals.
+What makes me stand out is my ability to manage the entire data lifecycle—from data collection , storage , processing to insights, experimentation, solutioning (for data products), measurement, and automation—before transferring ownership to tech for scalability. I see myself as a strategist who connects the dots between data and business, ensuring every decision is grounded in measurable value and aligned with organizational goals.
 
-Looking ahead, I aim to continue empowering objective decision-making while advancing into predictive analytics, delivering insights that scale with the needs of tomorrow.
+Currently, I’m diving into classic machine learning techniques and use cases, building on a foundation rooted in the undeniable importance of numbers. After all, who can truly skip statistics? It’s the language of patterns, the backbone of decision-making, and the lens through which I decode everyday challenges. Whether uncovering hidden insights or guiding impactful strategies, I see data not just as numbers but as the key to understanding and shaping the world around us.
 
 ---
 
