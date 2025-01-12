@@ -1,54 +1,66 @@
-<header>
+# 🌟 **Hi, I'm Abhinav Batra** 👋
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavbatra06)](https://www.linkedin.com/in/abhinavbatra06)
+[![GitHub](https://img.shields.io/github/followers/abhinavbatra06?label=Follow&style=social)](https://github.com/abhinavbatra06)
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### 🚀 **About Me**
+Hi! I’m Abhinav Batra, a passionate data enthusiast eager to harness the power of data to solve complex problems. (Placeholder text—we'll refine this together!)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+---
 
-</footer>
+### 🛠️ **Skills**
+- **Programming & Visualization**: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, Hive, Tableau, Metabase
+- **Cloud & Infrastructure**: AWS (SageMaker, Redshift), Snowflake
+- **Machine Learning & Analysis Techniques**: A/B Testing, Comparative Analysis, Cluster Analysis/Segmentation, Experiment Design, Optimization Techniques, Bayesian Data Analysis
+
+---
+
+### 🌟 **Projects**
+📂 **[Optimal Avocado Pricing Analysis](https://github.com/abhinavbatra06/avocado-pricing)**  
+Leveraged Bayesian regression to estimate price elasticity for Hass avocados, predicted sales volumes across pricing strategies, and proposed profit-maximizing prices with quantified uncertainty based on multi-channel retail data.
+
+📂 **[Movie Preferences Study](https://github.com/abhinavbatra06/movie-preferences)**  
+Analyzed a movie ratings dataset of 1,097 participants and 400 movies to explore viewer preferences and behavior, using hypothesis testing to address research questions like gender-based differences, social watching effects, and franchise consistency, delivering actionable insights.
+
+---
+
+### 💼 **Work Experience**
+#### **Senior Data Science Product Analyst**  
+**HealthifyMe** | Bangalore, India | *03/2023 – 07/2024*  
+- Contributed to a supervised ML model using SQL, Python, and AWS (Redshift, SageMaker) for feature engineering and pipeline setup, improving lead quality and operational efficiency.
+- Created dashboards in Metabase and Tableau for a $120K/month sales funnel, improving team efficiency by 25%.
+- Co-led A/B testing for Healthify’s app overhaul, validating hypotheses for 5+ features during a phased rollout.
+
+#### **Product Analyst/Senior Product Analyst**  
+**Swiggy** | Bangalore, India | *05/2021 – 01/2023*  
+- Developed a geospatial analysis framework and optimized last-mile routing, achieving an 18% efficiency improvement.
+- Reduced customer complaints by 5% through root cause analysis and performance tracking dashboards.
+
+#### **Business Analyst**  
+**MiQ Digital** | Bangalore, India | *12/2020 – 05/2021*  
+- Led audience analytics using Hive/PySpark for digital campaigns, driving 10% incremental reach.
+
+#### **Intern/Analyst**  
+**Deloitte** | Bangalore, India | *01/2019 – 11/2019*  
+- Automated training environment configuration, reducing setup time from 3 hours to 30 minutes.
+
+---
+
+### 🎓 **Education**
+- **Master of Science in Data Science**  
+  **New York University** | New York, USA | *11/2024 – 04/2026*  
+  - Relevant Coursework: Introduction to Data Science, Probability and Statistics, Programming for Data Science  
+
+- **Bachelor of Technology in Computer Science**  
+  **Vellore Institute of Technology** | Vellore, India | *06/2015 – 04/2019*
+
+---
+
+### 📫 **Contact Me**
+- **Email**: [ab12615@nyu.edu](mailto:ab12615@nyu.edu)  
+- **LinkedIn**: [linkedin.com/in/abhinavbatra06](https://www.linkedin.com/in/abhinavbatra06)  
+- **GitHub**: [github.com/abhinavbatra06](https://github.com/abhinavbatra06)
+
+
