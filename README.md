@@ -6,7 +6,13 @@
 ---
 
 ### 🚀 **About Me**
-Hi! I’m Abhinav Batra, a passionate data enthusiast eager to harness the power of data to solve complex problems. (Placeholder text—we'll refine this together!)
+I’m a Product Analyst with over 5 years of experience turning data into meaningful insights that drive decisions and measurable outcomes. My journey spans industries like programmatic advertising, food delivery, and health tech, where I’ve tackled challenges in operational efficiency, sales analytics, app growth and retention, and customer behavior.
+
+I specialize in designing experiments, uncovering root causes, and keeping decision-makers data-informed—whether it’s through detailed measurement frameworks or actionable reporting. I’ve collaborated with a wide range of stakeholders, including CEOs, product managers, analytics teams, sales, finance, and HR, often leading product initiatives and working closely with tech teams to deliver impact.
+
+What makes me stand out is my ability to manage the entire data lifecycle—from discovery to experimentation to measurement—translating complex data into clear, actionable insights that drive business direction. I excel at bridging the gap between data and strategy, ensuring every decision is grounded in measurable value and aligned with business goals.
+
+Looking ahead, I aim to continue empowering objective decision-making while advancing into predictive analytics, delivering insights that scale with the needs of tomorrow.
 
 ---
 
@@ -18,10 +24,10 @@ Hi! I’m Abhinav Batra, a passionate data enthusiast eager to harness the power
 ---
 
 ### 🌟 **Projects**
-📂 **[Optimal Avocado Pricing Analysis](https://github.com/abhinavbatra06/avocado-pricing)**  
+📂 **[Optimal Avocado Pricing Analysis](https://github.com/abhinavbatra06/Avocado-price-elasticity)**  
 Leveraged Bayesian regression to estimate price elasticity for Hass avocados, predicted sales volumes across pricing strategies, and proposed profit-maximizing prices with quantified uncertainty based on multi-channel retail data.
 
-📂 **[Movie Preferences Study](https://github.com/abhinavbatra06/movie-preferences)**  
+📂 **[Movie Preferences Study](https://github.com/abhinavbatra06/Hypothesis-Testing-of-Movie-Ratings-Data)**  
 Analyzed a movie ratings dataset of 1,097 participants and 400 movies to explore viewer preferences and behavior, using hypothesis testing to address research questions like gender-based differences, social watching effects, and franchise consistency, delivering actionable insights.
 
 ---
