@@ -23,12 +23,16 @@ Currently, I’m diving into classic machine learning techniques and use cases, 
 
 ---
 
-### 🌟 **Projects**
-📂 **[Optimal Avocado Pricing Analysis](https://github.com/abhinavbatra06/Avocado-price-elasticity)**  
+### **Projects**
+**[Probabilistic Machine Learning](https://github.com/abhinavbatra06/Avocado-price-elasticity)**  
 Leveraged Bayesian regression to estimate price elasticity for Hass avocados, predicted sales volumes across pricing strategies, and proposed profit-maximizing prices with quantified uncertainty based on multi-channel retail data.
 
-📂 **[Movie Preferences Study](https://github.com/abhinavbatra06/Hypothesis-Testing-of-Movie-Ratings-Data)**  
+**[Hypothesis Testing](https://github.com/abhinavbatra06/Hypothesis-Testing-of-Movie-Ratings-Data)**  
 Analyzed a movie ratings dataset of 1,097 participants and 400 movies to explore viewer preferences and behavior, using hypothesis testing to address research questions like gender-based differences, social watching effects, and franchise consistency, delivering actionable insights.
+
+**[Regression Analysis](https://github.com/abhinavbatra06/Fire-Weather-Index-FWI-Prediction)**  
+Developed a Fire Weather Index (FWI) prediction model using meteorological data, applying Linear, Ridge, and Lasso regression to analyze wildfire risk across two regions in Algeria.
+
 
 ---
 
