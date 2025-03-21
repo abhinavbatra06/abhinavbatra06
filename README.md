@@ -30,7 +30,7 @@ Leveraged Bayesian regression to estimate price elasticity for Hass avocados, pr
 **[Hypothesis Testing](https://github.com/abhinavbatra06/Hypothesis-Testing-of-Movie-Ratings-Data)**  
 Analyzed a movie ratings dataset of 1,097 participants and 400 movies to explore viewer preferences and behavior, using hypothesis testing to address research questions like gender-based differences, social watching effects, and franchise consistency, delivering actionable insights.
 
-**[Regression Analysis](https://github.com/abhinavbatra06/Fire-Weather-Index-FWI-Prediction)**  
+**[Regression Analysis](https://github.com/abhinavbatra06/fire-index-prediction)**  
 Developed a Fire Weather Index (FWI) prediction model using meteorological data, applying Linear, Ridge, and Lasso regression to analyze wildfire risk across two regions in Algeria.
 
 
