@@ -35,7 +35,6 @@ Developed a Fire Weather Index (FWI) prediction model using meteorological data,
 
  
 **[Swing Score Calc](https://github.com/abhinavbatra06/presidential_election-?tab=readme-ov-file)**
-
 Developed a swing score to identify swing states in U.S. presidential elections and analyzed key demographic factors linked to swing state behavior. 
 
 
